@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: monospace;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+ul {
+  list-style: none;
+  margin-top: 20px;
+  padding: 0;
+}
+
+button {
+  font-family: monospace;
+  border: none;
+  font-size: 17px;
+  font-weight: 800;
+  outline: none;
+}
+
+.delete-button {
+  color: #d00;
+  width: 25px;
+  height: 25px;
+
+}
+
+button:active{
+  background-color: #ccc;
+}
+
+#addTodo {
+  border: none;
+  margin-left: 10px;
+  padding: 4px 10px
+}
+
+input {
+  height: 25px;
+  border: 0.5px solid #ccc;
+  width: 350px;
+  font-family: monospace
+}
+
+li {
+  font-size: 18px;
+  margin-top: 10px
+}
