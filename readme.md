@@ -20,7 +20,7 @@ After learning the basics of React I created this todo list to show how react ha
 
 ## Getting Started
 
-Clone the repo as instructed below and
+Clone the repo as instructed below and download npm modules.
 <br/><br/>
 
 ## Prerequisites
